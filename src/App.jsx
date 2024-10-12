@@ -1,9 +1,10 @@
-import { DigimonList } from "./components/DigimonList"
+import { Home } from "./pages/Home"
+
 
 export const App = () => {
   return (
     <>
-      <DigimonList />
+      <Home />
     </>
   )
 }

@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #3595fa;
+}
+
+h1 {
+    color: #fcfcfc;
+}
